@@ -1,0 +1,8 @@
+# Ignore the entire build directory
+build/
+.cache/
+
+# Ignore compiled binaries and objects
+*.o
+*.a
+*.ninja
